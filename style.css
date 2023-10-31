@@ -79,7 +79,7 @@ ul li.active {
   width: 100%;
   padding: 1.6rem;
 
-  border-color: var(--color-base-gray-100);
+  background-color: var(--color-base-gray-100);
   border: 0;
   border-radius: 0.6rem;
 
